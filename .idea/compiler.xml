@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Oblig3_Software" />
+        <module name="leapyear" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Oblig3_Software" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
